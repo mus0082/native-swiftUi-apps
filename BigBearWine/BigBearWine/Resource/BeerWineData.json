@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Wild Turkey",
+    "category": "Bourbon",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2001,
+    "isAvailable": true,
+    "isFavorite": true,
+    "brewery": "Kentucky Straight",
+    "coordinates": {
+      "latitude": 60.7212,
+      "longitude": -135.0568
+    },
+    "description": "Wild Turkey Bourbon is a Kentucky straight bourbon whiskey known for its bold flavor and high proof (101). It's aged in charred oak barrels, resulting in a rich, smooth taste with notes of vanilla, caramel, and spice",
+    "imageName": "wildturkey"
+  },
+  {
+    "name": "Yukon Gold",
+    "category": "Beer",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2002,
+    "isAvailable": false,
+    "isFavorite": false,
+    "brewery": "Yukon Brewing",
+    "coordinates": {
+      "latitude": 60.7213,
+      "longitude": -135.0569
+    },
+    "description": "A refreshing fruit beer with subtle hints of cranberry and raspberry, inspired by Yukon’s wild landscapes.",
+    "imageName": "yukongoldpic"
+  },
+  {
+    "name": "Ice Fog IPA",
+    "category": "Beer",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2003,
+    "isAvailable": false,
+    "isFavorite": true,
+    "brewery": "Yukon Brewing",
+    "coordinates": {
+      "latitude": 60.7214,
+      "longitude": -135.0570
+    },
+    "description": "A bold and hop-forward India Pale Ale with citrus and pine aromas, named after the chilling Yukon winter fog.",
+    "imageName": "icefog"
+  },
+  {
+    "name": "Yukon Red",
+    "category": "Beer",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2004,
+    "isAvailable": true,
+    "isFavorite": true,
+    "brewery": "Yukon Brewing",
+    "coordinates": {
+      "latitude": 60.7215,
+      "longitude": -135.0571
+    },
+    "description": "A rich amber ale with a strong malt backbone and notes of caramel and roasted grains, perfect for cold evenings.",
+    "imageName": "yukonred"
+  },
+  {
+    "name": "Bonanza Brown",
+    "category": "Beer",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2005,
+    "isAvailable": false,
+    "isFavorite": false,
+    "brewery": "Yukon Brewing",
+    "coordinates": {
+      "latitude": 60.7216,
+      "longitude": -135.0572
+    },
+    "description": "A smooth and nutty brown ale with chocolate and coffee notes, named after Yukon's gold rush history.",
+    "imageName": "bonanzabrown"
+  },
+  {
+    "name": "Cabernet Sauvignon",
+    "category": "Wine",
+    "city": "Kelowna",
+    "state": "British Columbia",
+    "id": 2006,
+    "isAvailable": false,
+    "isFavorite": false,
+    "brewery": "Mission Hill Family Estate",
+    "coordinates": {
+      "latitude": 49.8625,
+      "longitude": -119.5831
+    },
+    "description": "A full-bodied red wine with rich dark fruit flavors, balanced tannins, and a smooth oak finish from BC’s Okanagan Valley.",
+    "imageName": "cabernetsauvignon"
+  },
+  {
+    "name": "Pinot Noir",
+    "category": "Wine",
+    "city": "Penticton",
+    "state": "British Columbia",
+    "id": 2007,
+    "isAvailable": true,
+    "isFavorite": false,
+    "brewery": "Poplar Grove Winery",
+    "coordinates": {
+      "latitude": 49.5045,
+      "longitude": -119.5937
+    },
+    "description": "An elegant red wine with flavors of cherry, raspberry, and earthy spice, crafted in the heart of Okanagan wine country.",
+    "imageName": "pinotnoir",
+  },
+  {
+    "name": "Icewine Vidal",
+    "category": "Wine",
+    "city": "Niagara-on-the-Lake",
+    "state": "Ontario",
+    "id": 2008,
+    "isAvailable": false,
+    "isFavorite": false,
+    "brewery": "Inniskillin",
+    "coordinates": {
+      "latitude": 43.2542,
+      "longitude": -79.0692
+    },
+    "description": "A luxurious dessert wine made from naturally frozen grapes, offering intense sweetness with notes of apricot, honey, and tropical fruit.",
+    "imageName": "icewinevidal"
+  },
+  {
+    "name": "Elijah Craig",
+    "category": "Bourbon",
+    "city": "Whitehorse",
+    "state": "Yukon",
+    "id": 2009,
+    "isAvailable": true,
+    "isFavorite": true,
+    "brewery": "Kentucky Straight",
+    "coordinates": {
+      "latitude": 60.7212,
+      "longitude": -135.0568
+    },
+    "description": "Elijah Craig is a premium and super-premium brand of bourbon whiskey produced in Kentucky by Heaven Hill Distilleries",
+    "imageName": "elijahcraig"
+  }
+]
